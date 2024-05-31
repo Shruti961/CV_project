@@ -1,4 +1,4 @@
-# CV_project
+# Computer Vision_project
 Brand Logo Detection using Template Matching
 
 What is Template Matching?
